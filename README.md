@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sabariag/DSA-Solutions/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/sabariag/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/sabariag/DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sabariag/DSA-Solutions/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sabariag/DSA-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
