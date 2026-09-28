@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sabariag/DSA-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/sabariag/DSA-Solutions/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/sabariag/DSA-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sabariag/DSA-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sabariag/DSA-Solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/sabariag/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabariag/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
