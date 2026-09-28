@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/sabariag/DSA-Solutions/tree/master/0342-power-of-four) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabariag/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sabariag/DSA-Solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/sabariag/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabariag/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
