@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sabariag/DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sabariag/DSA-Solutions/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sabariag/DSA-Solutions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sabariag/DSA-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
