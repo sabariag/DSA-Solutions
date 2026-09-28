@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sabariag/DSA-Solutions/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/sabariag/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sabariag/DSA-Solutions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sabariag/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sabariag/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
