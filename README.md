@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sabariag/DSA-Solutions/tree/master/0067-add-binary) |
+| [0263-ugly-number](https://github.com/sabariag/DSA-Solutions/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/sabariag/DSA-Solutions/tree/master/0342-power-of-four) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabariag/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
