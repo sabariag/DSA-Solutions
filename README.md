@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sabariag/DSA-Solutions/tree/master/0067-add-binary) |
 | [0459-repeated-substring-pattern](https://github.com/sabariag/DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sabariag/DSA-Solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/sabariag/DSA-Solutions/tree/master/0342-power-of-four) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabariag/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sabariag/DSA-Solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/sabariag/DSA-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sabariag/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sabariag/DSA-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
